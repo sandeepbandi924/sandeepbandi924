@@ -30,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep1423&" alt="sandeep1423" /></p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sandeepbandi924&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepbandi924&theme=dark&hide_border=false)<br/>
